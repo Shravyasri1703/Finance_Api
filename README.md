@@ -1,4 +1,4 @@
-![Screenshot 2024-09-07 174220](https://github.com/user-attachments/assets/285ebd5f-1e39-4bc5-96c9-d7d356308db9)# NodeJS Project
+
 
 Developed a simple REST API using Node.js and PostgreSQL to calculate EMI (Equated Monthly Installment) with the added option of prepayments or extra EMI payments. The API should return a month-wise breakdown of payments, including how prepayments impact the loan.
 
@@ -11,16 +11,17 @@ To run this project on local system :
    
    nodemon 'index.js'
 
-# Screenshots
-![Screenshot 2024-09-07 173956](https://github.com/user-attachments/assets/a2e1c823-e8d4-47ec-9e18-e231b3699d7b)
-![Screenshot 2024-09-07 174044](https://github.com/user-attachments/assets/2c1c887a-ff26-4946-bdc4-5eea55918d00)
-![Screenshot 2024-09-07 174135](https://github.com/user-attachments/assets/4c14fd49-9d09-49be-ab87-b3f37c37328c)
-![Screenshot 2024-09-07 174044](https://github.com/user-attachments/assets/2c7d8fbe-2925-40e6-98c2-68312599b3ef)
-![Screenshot 2024-09-07 174135](https://github.com/user-attachments/assets/27ad785f-dc37-4c86-bf93-ea5315501039)
-![Screenshot 2024-09-07 174220](https://github.com/user-attachments/assets/641cd05f-877e-454e-8028-181dd6464faf)
-![Screenshot 2024-09-07 174220](https://github.com/user-attachments/assets/0152375e-3a9e-4636-ac68-71c6ff986e35)
-![Uploading Screenshot 2![Screenshot 2024-09-07 174044](https://github.com/user-attachments/assets/67eeeb47-823f-4fe8-b12e-95c04cb5f1b0)
-![Screenshot 2024-09-07 173956](https://github.com/user-attachments/assets/a59d5cda-9bab-400b-8c30-48e5f0a876fc)
-![Screenshot 2024-09-07 173956](https://github.com/user-attachments/assets/38c7916e-24b0-48a9-9c5c-6d2fad352ef2)
-024-09-07 174220.png…]()
-![Screenshot 2024-09-07 174135](https://github.com/user-attachments/assets/cf5b747a-45cf-438f-8d04-cf4a6ae30a41)
+```
+#Screenshot
+![Screenshot 2024-09-07 173956](https://github.com/user-attachments/assets/22509686-b80c-4ff2-b63e-46da7626695b)
+![Screenshot 2024-09-07 174135](https://github.com/user-attachments/assets/8a0764f1-57c1-4f4a-ad14-406f0cc97f1d)
+![Screenshot 2024-09-07 174044](https://github.com/user-attachments/assets/19c7a466-8c07-4768-b81a-885f4c12ddc3)
+![Screenshot 2024-09-07 174044](https://github.com/user-attachments/assets/9f7fdaf4-9d83-4d4c-af16-e232648576b7)
+![Screenshot 2024-09-07 174220](https://github.com/user-attachments/assets/da9fd617-d5b6-4cf7-b20a-7e87283dc2eb)
+![Screenshot 2024-09-07 174220](https://github.com/user-attachments/assets/48e2db7d-1a8a-44cc-adc9-f125ad7080b5)![Screenshot 2024-09-07 174220](https://github.com/user-attachments/assets/679d9120-f251-4f1c-851a-8a86fe6f3adf)
+
+![Screenshot 2024-09-07 174135](https://github.com/user-attachments/assets/8b5b9be8-3f9d-4538-8254-9990bcff62bc)![Screenshot 2024-09-07 173956](https://github.com/user-attachments/assets/0cd4ba6d-4539-4760-a80f-b1958d4f7258)
+
+![Screenshot 2024-09-07 174135](https://github.com/user-attachments/assets/93e6f8fe-4586-4061-a99e-13074bfdfded)
+![Screenshot 2024-09-07 174044](https://github.com/user-attachments/assets/65006508-6e9c-42f3-b5e2-9591906b04f4)
+![Screenshot 2024-09-07 173956](https://github.com/user-attachments/assets/5b3b12fd-53a0-4126-a023-e95e120dc30c)
